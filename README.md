@@ -1,4 +1,4 @@
-# Sertifikātu pārvaldnieks
+# MiniTask
 
 Darbvirsmas lietotne, kas veidota ar Python un PySide6 (Qt).
 Autors: Artūrs Jeske
@@ -15,7 +15,7 @@ python main.py
 ### PD01 — projekta pamats
 
 - Izveidots projekta karkass ar `QMainWindow`.
-- Logam ir virsraksts "Sertifikātu pārvaldnieks" un sākotnējais izmērs 400x200.
+- Logam ir virsraksts "MiniTask" un sākotnējais izmērs 400x200.
 
 ### PD02 — lietotne reaģē uz lietotāja darbībām
 

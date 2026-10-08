@@ -5,7 +5,7 @@ from PySide6.QtWidgets import QApplication, QWidget, QLineEdit, QPushButton, QLi
 class MainWindow(QMainWindow) :
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Sertifikātu pārvaldnieks")
+        self.setWindowTitle("MiniTask")
         self.setGeometry(100,100,400,200)
 
         self.tasks = []
